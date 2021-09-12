@@ -1,0 +1,11 @@
+#ball{
+    border-radius: 50%;
+    border: 2px solid black;
+    background: rgb(235, 10, 10);
+    width: 10vw;
+    height: 20vh;
+    position:relative;
+    top: 50vh;
+    left: 80vw;
+    transition: left 2s, right 2s, top 2s, bottom 2s;
+}
